@@ -1,9 +1,6 @@
 # oss-audit-[rollnumber]
 
-**Student:** [Your Name]  
-**Registration Number:** [Your Reg Number]  
-**Course:** Open Source Software — OSS NGMC  
-**Chosen Software:** Git  
+ 
 
 ---
 
