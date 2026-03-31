@@ -1,7 +1,6 @@
 #!/bin/bash
 
-STUDENT_NAME="Student"
-SOFTWARE_CHOICE="Git"
+
 
 KERNEL=$(uname -r)
 DISTRO=$(grep PRETTY_NAME /etc/os-release 2>/dev/null | cut -d= -f2 | tr -d '"')
