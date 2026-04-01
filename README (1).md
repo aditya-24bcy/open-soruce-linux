@@ -1,8 +1,12 @@
-# oss-audit-[rollnumber]
+# oss-audit-24bcy10288
+
+**Student:** Aditya kumar
+**Registration Number:** 24bcy10288
+**Course:** Open Source Software — OSS NGMC  
+**Chosen Software:** Git  
 
  
 
----
 
 ## Scripts
 
